@@ -1,0 +1,19 @@
+.column {
+    min-width: 300px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 10px;
+  }
+  
+  .column-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .column-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
